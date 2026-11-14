@@ -2,6 +2,8 @@
 
 Aplicativo web (PWA) para **anotar e controlar horas trabalhadas e horas extras**, usado ao mesmo tempo no **celular e no computador**, com **salvamento automático no GitHub**.
 
+📘 **Guia de uso:** [PDF](Guia-de-uso-Ponto-e-Horas.pdf) · [versão em texto](GUIA-DE-USO.md)
+
 ## Funcionalidades
 - Botão de **registrar ponto** (entrada/saída, quantos intervalos quiser; turnos que passam da meia-noite).
 - **Anotações por dia**, salvas automaticamente.
